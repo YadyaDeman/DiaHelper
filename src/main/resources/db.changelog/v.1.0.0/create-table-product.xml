@@ -11,7 +11,7 @@
                 <constraints primaryKey="true" nullable="false"/>
             </column>
 
-            <column name="product_name" type="varchar(64)">
+            <column name="product_title" type="varchar(64)">
                 <constraints nullable="false" />
             </column>
 
